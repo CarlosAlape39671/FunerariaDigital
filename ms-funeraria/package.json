@@ -38,7 +38,7 @@
     "printWidth": 100
   },
   "devDependencies": {
-    "@adonisjs/assembler": "^5.9.6",
+    "@adonisjs/assembler": "^7.2.3",
     "@japa/preset-adonis": "^1.2.0",
     "@japa/runner": "^2.5.1",
     "@types/proxy-addr": "^2.0.3",
@@ -63,5 +63,20 @@
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.2.1",
     "source-map-support": "^0.5.21"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAlape39671/FunerariaDigital.git"
+  },
+  "author": "none",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAlape39671/FunerariaDigital/issues"
+  },
+  "homepage": "https://github.com/CarlosAlape39671/FunerariaDigital#readme",
+  "description": ""
 }
