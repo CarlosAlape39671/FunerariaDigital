@@ -24,3 +24,6 @@ Route.get('/', async () => {
   return { hello: 'world' }
 })
 import './routes/servicios'
+import './routes/traslados'
+import './routes/sepulturas'
+import './routes/planes'
